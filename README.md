@@ -77,5 +77,6 @@ Simple image recognition using tflite for android
     7. Now try a web search for flowers, point the camera at the computer screen, and see if those pictures are correctly classified. Or have a friend take a picture of you and find out what kind of TensorFlower you are !
     
 ## CREDITS:
-    - Codes from: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/
+    - Steps from: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/
+    - Codes from: https://github.com/googlecodelabs/tensorflow-for-poets-2
     - For windows' user on converting trained model to tflite format using tflite Converter only working solution, from: https://heartbeat.fritz.ai/working-through-a-tensorflow-lite-tutorial-on-windows-10-e27ee0e8b8cc
