@@ -75,3 +75,7 @@ Simple image recognition using tflite for android
         cp tf_files/retrained_labels.txt android/tflite/app/src/main/assets/labels.txt 
     6. In Android Studio run a Gradle sync, so the build system can find your files, and then hit play, to start the build and install process as before.
     7. Now try a web search for flowers, point the camera at the computer screen, and see if those pictures are correctly classified. Or have a friend take a picture of you and find out what kind of TensorFlower you are !
+    
+## CREDITS:
+    - Codes from: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/
+    - For windows' user on converting trained model to tflite format using tflite Converter only working solution, from: https://heartbeat.fritz.ai/working-through-a-tensorflow-lite-tutorial-on-windows-10-e27ee0e8b8cc
